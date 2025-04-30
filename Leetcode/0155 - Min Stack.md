@@ -1,5 +1,5 @@
 ---
-date: 2025-03-01
+Date: 2025-03-01
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - Don't over think it, you don't need to implement stack from scratch.
 - you just need to add a 'feature' that return the min value of the stack in $O(1)$ time.

@@ -12,6 +12,7 @@ Week:
   - Week 2
 Next Review: November 14, 2024
 ---
+
 ## Optimized Solution
 
 ```Java

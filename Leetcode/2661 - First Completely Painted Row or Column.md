@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 24, 2025
 ---
+
 ## Useful Video Resources
 
 - [First Completely Painted Row or Column - Leetcode 2661 - Python - YouTube](https://youtu.be/Xhqo5_SPJa8)

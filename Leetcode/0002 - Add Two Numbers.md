@@ -1,5 +1,5 @@
 ---
-date: 2025-03-27
+Date: 2025-03-27
 tags:
   - Leetcode
   - java
@@ -8,11 +8,11 @@ URL: https://leetcode.com/problems/add-two-numbers/description/
 Hint: 
 Clarity: 
 Solution Type: 
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - if they were of same length, we can just add both nodes, and carry over any excess to the next node.
 - but they can of different length, so we will need to traverse both perform the calculation and save to a new list.

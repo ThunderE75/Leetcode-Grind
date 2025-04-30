@@ -12,6 +12,7 @@ Week:
   - Week 2
 Next Review: November 14, 2024
 ---
+
 ## Optimized Solution
 
 [First Bad Version - YouTube](https://youtu.be/SNDE-C86n88)

@@ -13,6 +13,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 11, 2025
 ---
+
 ## Useful Video Resources
 
 - [String Matching in an Array - Leetcode 1408 - Python - YouTube](https://youtu.be/7K2BjgjCFDo)

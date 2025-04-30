@@ -6,6 +6,7 @@ Week:
   - Week 4
 Next Review: December 23, 2024
 ---
+
 ## Useful Video Resources
 
 - [https://youtu.be/qKczfGUrFY4](https://youtu.be/qKczfGUrFY4)

@@ -1,5 +1,5 @@
 ---
-date: 2025-04-12
+Date: 2025-04-12
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint: Convert to string, make sum func., use substring
 Clarity: Medium
 Solution Type:
   - Brute Force
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - 
 ## Solution

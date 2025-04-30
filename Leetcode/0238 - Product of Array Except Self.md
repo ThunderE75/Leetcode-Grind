@@ -1,5 +1,5 @@
 ---
-date: 2025-02-16
+Date: 2025-02-16
 tags:
   - Leetcode
   - java
@@ -13,6 +13,7 @@ cssclasses:
   - programming-notes
   - no-properties
 ---
+
 ### Intuition
 - Need to use prefix & postfix sums
 - Follow up, try not to use different arrays to store the prefix and postfix 

@@ -12,6 +12,7 @@ Week:
   - Week 2
 Next Review: November 15, 2024
 ---
+
 ## Video Resources
 
 - [Climbing Stairs - Dynamic Programming - Leetcode 70 - Python - YouTube](https://youtu.be/Y0lT9Fck7qI)

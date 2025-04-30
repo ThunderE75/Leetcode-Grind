@@ -1,5 +1,5 @@
 ---
-date: 2025-04-06
+Date: 2025-04-06
 tags:
   - Leetcode
   - java
@@ -8,12 +8,12 @@ URL: https://leetcode.com/problems/diameter-of-binary-tree/description/
 Hint: 
 Clarity: Low
 Solution Type: 
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - After watching ref 1
 - we get the max depth of both left and right sub tree,

@@ -1,5 +1,5 @@
 ---
-date: 2025-03-28
+Date: 2025-03-28
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint: Just use 1 pointer, and use .next
 Clarity: High
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 
 > [!info] References

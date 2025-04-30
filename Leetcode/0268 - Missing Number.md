@@ -1,5 +1,5 @@
 ---
-date: 2025-04-05
+Date: 2025-04-05
 tags:
   - Leetcode
   - java
@@ -10,12 +10,12 @@ Clarity: Crystal
 Solution Type:
   - ⚙️ Bit Manipulation
   - 🧠 Design
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Ways to solve this 
 	- Sort, then traverse to find missing 

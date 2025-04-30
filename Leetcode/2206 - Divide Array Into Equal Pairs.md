@@ -1,5 +1,5 @@
 ---
-date: 2025-03-17
+Date: 2025-03-17
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - The elements present in a **pair are equal**.
 - so the numbers needs to be even.

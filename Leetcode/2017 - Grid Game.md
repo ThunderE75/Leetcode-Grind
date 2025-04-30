@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 25, 2025
 ---
+
 ## Useful Video Resources
 
 - [Grid Game \| Leetcode 2017 - YouTube](https://youtu.be/qA7yyNI2xKM)

@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 16, 2025
 ---
+
 ## Useful Video Resources
 
 - [Check if a Parentheses String Can Be Valid - Leetcode 2116 - Python - YouTube](https://youtu.be/KMIIGDiXLhY)

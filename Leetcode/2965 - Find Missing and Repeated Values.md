@@ -1,5 +1,5 @@
 ---
-date: 2025-03-07
+Date: 2025-03-07
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - Can be solved either by A Frequency Array or a Hash Set
 - $ or we can use Math

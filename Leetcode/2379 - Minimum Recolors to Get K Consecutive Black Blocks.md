@@ -1,5 +1,5 @@
 ---
-date: 2025-03-08
+Date: 2025-03-08
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - we can use the [[Sliding Window]] technique 
 - 

@@ -11,6 +11,7 @@ Date: 2025-01-13T23:04
 Week:
   - 💥Not in Curriculum
 ---
+
 ## Initial Solution
 
 ```Java

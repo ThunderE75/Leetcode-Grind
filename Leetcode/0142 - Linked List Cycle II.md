@@ -1,5 +1,5 @@
 ---
-date: 2025-03-26
+Date: 2025-03-26
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint:
 Clarity: High
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - We can use [[Hash Set]] or [[Floyd’s Cycle-Finding Algorithm]]
 - See the video 1 for a better understanding of the logic

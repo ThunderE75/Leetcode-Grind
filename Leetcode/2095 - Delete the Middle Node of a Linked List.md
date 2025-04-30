@@ -1,5 +1,5 @@
 ---
-date: 2025-03-28
+Date: 2025-03-28
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint:
 Clarity: High
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - use [[Floyd’s Cycle-Finding Algorithm|Fast & Slow Pointer]] and just delete the middle node
 - 

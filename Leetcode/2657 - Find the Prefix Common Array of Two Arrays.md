@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 18, 2025
 ---
+
 ## Optimized Solution
 
 ```Java

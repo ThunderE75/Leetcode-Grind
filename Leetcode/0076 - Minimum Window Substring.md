@@ -1,5 +1,5 @@
 ---
-date: 2025-04-01
+Date: 2025-04-01
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint:
 Clarity: Low
 Solution Type:
   - Sliding Window
-Hardness:
-  - Hard
+Hardness: Hard
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - okay, so [[Sliding Window]] with a hash set for occurrence?
 - we can use `.substring()` & `.equals()` for a better TC

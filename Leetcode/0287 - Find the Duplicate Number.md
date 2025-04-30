@@ -1,5 +1,5 @@
 ---
-date: 2025-04-04
+Date: 2025-04-04
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint:
 Clarity: Medium
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - The basic naive solution is a [[Hash Set]]
 - if the elements in the array are between `1 & n` and the constraints `All the integers in nums appear only once` suggest a mathematical solution, that we add every number between 1 & n and subtract it by the sum of the array, but example 3 makes that assumption invalid i.e. `except for precisely one integer which appears two or more times.` 

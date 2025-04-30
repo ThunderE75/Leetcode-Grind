@@ -1,5 +1,5 @@
 ---
-date: 2025-03-03
+Date: 2025-03-03
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 
 > [!info] References

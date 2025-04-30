@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 19, 2025
 ---
+
 ## Useful Resources
 - [Minimize XOR - Leetcode 2429 - Python - YouTube](https://youtu.be/xhD78PX8Nss)
 ## Solution

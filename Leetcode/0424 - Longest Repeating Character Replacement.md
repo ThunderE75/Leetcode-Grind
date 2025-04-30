@@ -1,5 +1,5 @@
 ---
-date: 2025-03-30
+Date: 2025-03-30
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint:
 Clarity: High
 Solution Type:
   - Sliding Window
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Okay, start from the beginning
 - we can use freq. array or a [[Hash Map]] to store the frequency of characters in a window.

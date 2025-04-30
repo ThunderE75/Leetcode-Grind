@@ -13,6 +13,7 @@ Week:
   - Week 1
 Next Review: November 10, 2024
 ---
+
 ## Intuition
 - Okay we need to understand the properties of [[Binary Search Tree]]
 - All cases

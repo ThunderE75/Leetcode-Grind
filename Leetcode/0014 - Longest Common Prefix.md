@@ -13,6 +13,7 @@ Week:
 Next Review: December 21, 2024
 Remarks: either you take 1st as prefix, or add as you check it in every string
 ---
+
 ## Useful Video Resources
 
 - [https://youtu.be/bl8ue-dTxgs](https://youtu.be/bl8ue-dTxgs)

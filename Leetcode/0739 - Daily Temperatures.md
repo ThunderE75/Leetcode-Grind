@@ -1,5 +1,5 @@
 ---
-date: 2025-02-26
+Date: 2025-02-26
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - An Easy $O(n^2)$ solution is 2 pointer solution using the original array.
 - Hint - Use a monotonic decreasing stack

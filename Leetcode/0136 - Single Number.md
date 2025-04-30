@@ -1,5 +1,5 @@
 ---
-date: 2025-04-05
+Date: 2025-04-05
 tags:
   - Leetcode
   - java
@@ -8,12 +8,12 @@ URL: https://leetcode.com/problems/single-number/description/
 Hint: XOR same number will give 0
 Clarity: Crystal
 Solution Type: 
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Dead simple, XOR same number will give 0 
 - so `{java}5 ^ 5 == 0` 

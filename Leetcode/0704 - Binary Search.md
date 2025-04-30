@@ -16,6 +16,7 @@ Remarks: Try using Recursion, check mid, then check if both left & right bounds 
 SR Notes:
   - "[[1-704]]"
 ---
+
 ## Solution
 ```Java title="Iterative Approach"
 class Solution {

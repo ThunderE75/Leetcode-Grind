@@ -1,5 +1,5 @@
 ---
-date: 2025-03-16
+Date: 2025-03-16
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - We can brute force but it will be $O(n*m)$, so that's not optimal
 - we can first binary search the last index of each to find in witch row it's suppose to exist, and then find it there. The time complexity is $O(log(n * m ))$ 

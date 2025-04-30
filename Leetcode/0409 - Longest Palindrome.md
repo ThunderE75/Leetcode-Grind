@@ -12,6 +12,7 @@ Week:
   - Week 2
 Next Review: November 15, 2024
 ---
+
 ## Useful Resources
 
 - [LeetCode Longest Palindrome Solution Explained - Java - YouTube](https://youtu.be/a_3XDW9P47E)

@@ -1,5 +1,5 @@
 ---
-date: 2025-02-22
+Date: 2025-02-22
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint: Simple 2 Pointer
 Clarity: High
 Solution Type:
   - Sliding Window
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 
 - we need to maximize both width & height

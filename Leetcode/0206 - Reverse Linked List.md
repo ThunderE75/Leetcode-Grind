@@ -12,6 +12,7 @@ Week:
   - Week 2
 Next Review: November 16, 2024
 ---
+
 ### Intuition
 - To Reverse it, we can just traverse through it, and change the the curr.next to previous
 

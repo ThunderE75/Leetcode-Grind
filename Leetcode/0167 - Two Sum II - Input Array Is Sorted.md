@@ -1,6 +1,5 @@
 ---
-Hardness:
-  - Medium
+Hardness: Medium
 No.: "167"
 Solution Type:
   - 2 Pointer
@@ -8,6 +7,7 @@ URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 Date: 2025-01-08T01:45
 Hint: Simple 2 Pointer
 ---
+
 ## Useful Video Resources
 - [TWO SUM II - Amazon Coding Interview Question - Leetcode 167 - Python - YouTube](https://youtu.be/cQ1Oz4ckceM)
 ## Initial Solution

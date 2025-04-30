@@ -1,5 +1,5 @@
 ---
-date: 2025-02-16
+Date: 2025-02-16
 tags:
   - Leetcode
   - java
@@ -8,8 +8,7 @@ URL: https://leetcode.com/problems/matrix-diagonal-sum/description/
 Hint: Try using just one loop
 Clarity: High
 Solution Type: 
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
 ---

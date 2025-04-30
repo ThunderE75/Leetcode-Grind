@@ -1,5 +1,5 @@
 ---
-date: 2024-11-02
+Date: 2024-11-02
 tags:
   - Leetcode
   - java
@@ -10,11 +10,11 @@ Clarity: Medium
 Solution Type:
   - Brute Force
   - Recursion
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - 
 > [!info] References

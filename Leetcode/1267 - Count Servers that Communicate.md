@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 27, 2025
 ---
+
 ## Useful Video Resources
 
 - [https://youtu.be/meTbkgqNNYM](https://youtu.be/meTbkgqNNYM)

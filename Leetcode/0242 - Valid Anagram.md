@@ -17,6 +17,7 @@ Next Review: November 15, 2024
 SR Notes:
   - "[[1-242]]"
 ---
+
 ## Initial Solution
 
 ```Java

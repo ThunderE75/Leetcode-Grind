@@ -13,6 +13,7 @@ Week:
   - Week 4
 Next Review: December 21, 2024
 ---
+
 ## Useful Video Resources
 
 - [Insert Interval - Leetcode 57 - Python - YouTube](https://youtu.be/A8NUOmlwOlM)

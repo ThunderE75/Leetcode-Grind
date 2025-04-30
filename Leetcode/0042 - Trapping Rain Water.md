@@ -1,6 +1,5 @@
 ---
-Hardness:
-  - Hard
+Hardness: Hard
 No.: "42"
 Solution Type:
   - 2 Pointer
@@ -11,6 +10,7 @@ URL: https://leetcode.com/problems/trapping-rain-water/description/
 Date: 2025-01-19T16:14
 Next Review: January 23, 2025
 ---
+
 ## Intuition 
 
 - 

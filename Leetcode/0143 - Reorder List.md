@@ -1,5 +1,5 @@
 ---
-date: 2025-03-28
+Date: 2025-03-28
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint: mid, split, reverse, merge.
 Clarity: High
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - We do a [[Floyd’s Cycle-Finding Algorithm|Fast & Slow Pointer]] to find the the mid
 - Beyond mid, we reverse the list and save the tail of original as the head of 2nd list

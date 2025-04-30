@@ -12,6 +12,7 @@ Week:
   - Week 4
 Next Review: January 8, 2025
 ---
+
 ## Useful Video Resources
 
 - [K Closest Points to Origin - Heap / Priority Queue - Leetcode 973 - Python - YouTube](https://youtu.be/rI2EBUEMfTk)

@@ -7,6 +7,7 @@ Week:
   - GFG
 Next Review: December 28, 2024
 ---
+
 ## Optimized Solution
 
 ```Java

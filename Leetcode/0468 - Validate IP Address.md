@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: December 28, 2024
 ---
+
 ## Useful Video Resources
 
 ## Key Takeaways

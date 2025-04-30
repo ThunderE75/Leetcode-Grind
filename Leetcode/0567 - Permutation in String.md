@@ -1,5 +1,5 @@
 ---
-date: 2025-03-16
+Date: 2025-03-16
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint:
 Clarity: 
 Solution Type:
   - Sliding Window
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ## Intuition
 - So, [[Sliding Window]], with fixed size of s2
 - Permutation implies that the order doesn't matter

@@ -12,6 +12,7 @@ Week:
   - 💥Not in Curriculum
 Next Review: January 20, 2025
 ---
+
 ## Useful Video Resources
 - [Bitwise XOR of All Pairings - Leetcode 2425 - Python - YouTube](https://youtu.be/H9zVwDf6Frk)
 

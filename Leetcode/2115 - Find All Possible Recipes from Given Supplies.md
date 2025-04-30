@@ -1,5 +1,5 @@
 ---
-date: 2025-03-21
+Date: 2025-03-21
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - we can store all the available supplies in a hashset, for instant access.
 - and then we can just check ingredients for each recipe 

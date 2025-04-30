@@ -1,5 +1,5 @@
 ---
-date: 2025-01-05
+Date: 2025-01-05
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint: HashSet Sliding window
 Clarity: High
 Solution Type:
   - Sliding Window
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Simple [[Sliding Window]], w/ hashset.
 - Remove first char as we move when encountering a dupe.

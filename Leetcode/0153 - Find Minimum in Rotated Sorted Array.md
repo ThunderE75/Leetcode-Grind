@@ -1,5 +1,5 @@
 ---
-date: 2025-03-22
+Date: 2025-03-22
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - There can be -5000 in input array
 - my thinking

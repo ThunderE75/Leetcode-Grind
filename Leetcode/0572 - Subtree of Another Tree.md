@@ -1,5 +1,5 @@
 ---
-date: 2025-04-07
+Date: 2025-04-07
 tags:
   - Leetcode
   - java
@@ -8,12 +8,12 @@ URL: https://leetcode.com/problems/subtree-of-another-tree/description/
 Hint: 
 Clarity: 
 Solution Type: 
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Basically an iteration of [[0100 - Same Tree]] question 
 - 

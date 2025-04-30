@@ -1,5 +1,5 @@
 ---
-date: 2025-03-02
+Date: 2025-03-02
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - Ways to solve
 	- Hashmap -> iterate one by one on each input array and store 

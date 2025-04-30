@@ -12,6 +12,7 @@ Week:
   - Week 4
 Next Review: December 21, 2024
 ---
+
 ## Intuition
 - What the fuck, this is simple but i can't come up with the code
 - Okay, cases

@@ -1,5 +1,5 @@
 ---
-date: 2024-11-16
+Date: 2024-11-16
 tags:
   - Leetcode
   - java
@@ -10,12 +10,12 @@ Clarity: Medium
 Solution Type:
   - DFS
   - Recursion
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - to get max depth we would need to do a [[Depth First Search|DFS]] 
 - we can use recursion but we need to only add +1 for each depth

@@ -13,6 +13,7 @@ Week:
   - Week 2
 Next Review: November 17, 2024
 ---
+
 ## Video Resources
 [Majority Element - Leetcode 169 - Python - YouTube](https://youtu.be/7pnhv842keE)
 ## Follow Up Solution

@@ -1,5 +1,5 @@
 ---
-date: 2025-03-27
+Date: 2025-03-27
 tags:
   - Leetcode
   - java
@@ -8,11 +8,11 @@ URL: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 Hint: 
 Clarity: 
 Solution Type: 
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - We will have two node, first we made it so that the distance between the fast and slow node is equal to `n`, so basically a [[Sliding Window]] 
 - Then we progress both together until fast reaches ends

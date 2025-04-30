@@ -1,5 +1,5 @@
 ---
-date: 2024-11-05
+Date: 2024-11-05
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint: Recursion; until root is null, DFS; swap;
 Clarity: Medium
 Solution Type:
   - DFS
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - Okay, we need to swap left and right
 - Should be pretty easy using DFS & Recursion

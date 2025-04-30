@@ -1,5 +1,5 @@
 ---
-date: 2025-03-29
+Date: 2025-03-29
 tags:
   - Leetcode
   - java
@@ -10,12 +10,12 @@ Clarity: Medium
 Solution Type:
   - 2 Pointer
   - Hash Map / Set
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - What the fuck, i do not understand the question
 - 

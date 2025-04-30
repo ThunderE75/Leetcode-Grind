@@ -1,5 +1,5 @@
 ---
-date: 2025-03-28
+Date: 2025-03-28
 tags:
   - Leetcode
   - java
@@ -8,12 +8,12 @@ URL: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/
 Hint: 
 Clarity: 
 Solution Type: 
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - The hints are terrible, but i'll implement it anyways
 - i think we need some basic pointers

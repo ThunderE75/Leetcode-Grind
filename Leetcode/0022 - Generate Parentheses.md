@@ -1,5 +1,5 @@
 ---
-date: 2025-02-28
+Date: 2025-02-28
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - Only add open parenthesis if `open < n`
 - Only add closing parenthesis if `closed < open`

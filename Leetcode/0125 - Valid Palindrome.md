@@ -1,6 +1,5 @@
 ---
-Hardness:
-  - Easy
+Hardness: Easy
 No.: "125"
 Solution Type:
   - 2 Pointer
@@ -11,6 +10,7 @@ URL: https://leetcode.com/problems/valid-palindrome/description/
 Date: 2024-11-04T18:51
 Remarks: "to Prevent TLE, save the char in vars, use a single loop "
 ---
+
 ## Intuition 
 - We can use 2 Pointer Approach.
 - Do not, just store all the values in hashmap and check for odd.

@@ -12,6 +12,7 @@ Week:
   - Week 3
 Next Review: November 23, 2024
 ---
+
 ## Useful Video Resources
 
 - Another Approach

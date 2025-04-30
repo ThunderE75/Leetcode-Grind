@@ -1,5 +1,5 @@
 ---
-date: 2025-03-12
+Date: 2025-03-12
 tags:
   - Leetcode
   - java
@@ -12,6 +12,7 @@ Hardness:
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - input **nums** can be either increasing or dupes.
 - we can easily solve in $O(n)$ time, but for $O(log~n)$,we can maybe just count all *-ve* then count zeros & subtract them with length.

@@ -14,6 +14,7 @@ Week:
   - Week 3
 Next Review: November 24, 2024
 ---
+
 ## Thought Process
 
 - Use Stacks ( 2?)

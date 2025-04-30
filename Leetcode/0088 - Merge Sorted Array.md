@@ -1,5 +1,5 @@
 ---
-date: 2025-03-26
+Date: 2025-03-26
 tags:
   - Leetcode
   - java
@@ -9,11 +9,11 @@ Hint: Start and the end
 Clarity: Crystal
 Solution Type:
   - 2 Pointer
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
 ---
+
 ### Intuition
 - we have length of both inputs, we can go backwards
 - to find the last actual element of `nums1`, we can perform `m-n`

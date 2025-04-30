@@ -14,6 +14,7 @@ Week:
 Next Review: December 21, 2024
 Remarks: "Convert decimal input to binary & count # of 1sFor Bit Man -> Use & 1 and >>>"
 ---
+
 ## Useful Video Resources
 
 ## Optimized Solution

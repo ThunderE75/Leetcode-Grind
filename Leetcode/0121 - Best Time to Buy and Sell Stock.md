@@ -1,5 +1,5 @@
 ---
-date: 2024-11-02
+Date: 2024-11-02
 tags:
   - Leetcode
   - java
@@ -9,12 +9,12 @@ Hint:
 Clarity: Low
 Solution Type:
   - Sliding Window
-Hardness:
-  - Easy
+Hardness: Easy
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - What the fuck ?
 - Using a [[Sliding Window]] approach 

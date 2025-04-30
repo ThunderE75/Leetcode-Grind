@@ -12,6 +12,7 @@ Week:
   - Week 5
 Next Review: January 22, 2025
 ---
+
 ## Useful Video Resources
 
 - [Binary Tree Level Order Traversal - YouTube](https://youtu.be/XZnWETlZZ14)

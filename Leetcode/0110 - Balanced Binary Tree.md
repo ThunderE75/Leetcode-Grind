@@ -14,6 +14,7 @@ Week:
   - Week 2
 Next Review: November 11, 2024
 ---
+
 ## Intuition
 - Okay, balanced means, the max height of subtrees can't differ more than 1 
 - 

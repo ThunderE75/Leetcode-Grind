@@ -1,5 +1,5 @@
 ---
-date: 2025-04-05
+Date: 2025-04-05
 tags:
   - Leetcode
   - java
@@ -8,12 +8,12 @@ URL: https://leetcode.com/problems/lru-cache/description/
 Hint: 
 Clarity: 
 Solution Type: 
-Hardness:
-  - Medium
+Hardness: Medium
 cssclasses:
   - programming-notes
   - no_url_underline
 ---
+
 ## Intuition
 - WHAT THE FUCK ?
 - you can use [[Linked Hash Maps]] but the preferred approach is Hashmap for $O(1)$ access & Linked list for frequency 

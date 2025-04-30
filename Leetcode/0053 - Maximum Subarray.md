@@ -12,6 +12,7 @@ Week:
   - Week 4
 Next Review: January 7, 2025
 ---
+
 ## Useful Video Resources
 
 - [Maximum Subarray - Amazon Coding Interview Question - Leetcode 53 - Python - YouTube](https://youtu.be/5WZl3MMT0Eg)
